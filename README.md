@@ -1,3 +1,5 @@
+Certainly! In the "Sources" section of the README, we can include the source you provided. Here's an updated version of the README with the added source:
+
 # Mexican Holidays JSON
 
 This repository contains a JSON file with the official non-working days in Mexico, as specified in Article 74 of the Federal Labor Law (LFT). The JSON file is designed to be consumed by other applications in English and can be used for all future years.
@@ -35,7 +37,7 @@ The JSON file includes the following holidays:
    - Date: September 16th (`09-16`)
 
 6. **Revolution Day**
-   - Date: Novermber 20th (`11-20`)
+   - Date: November 20th (`11-20`)
    - Observed: Third Monday of November
 
 7. **Inauguration Day**
@@ -58,6 +60,10 @@ If you find any inaccuracies or missing information in the JSON file, or if new 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the JSON file freely.
+
+## Sources
+
+List of official non-working days in Mexico sourced from [Procuraduría Federal de la Defensa del Trabajo (PROFEDET) - ¿Sabes cuáles son los días de descanso obligatorios?](https://www.gob.mx/profedet/es/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorios-163134)
 
 ---
 *Disclaimer: This information is based on the Federal Labor Law (LFT) and may be subject to change. It is always recommended to consult the latest official sources for any legal or official references.*
