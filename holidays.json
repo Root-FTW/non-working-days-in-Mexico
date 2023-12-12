@@ -43,6 +43,44 @@
       "remarks": "Christmas celebration; secular and religious holiday."
     }
   ],
-  "civicHolidays": [],
+  "civicHolidays": [
+    {
+      "date": "February 20",
+      "name": "Mexican Army Day",
+      "spanishName": "Día del Ejército",
+      "remarks": "Celebrates the Mexican Army on the date of its 1913 foundation and honor of the 1911 Loyalty March ('Marcha de la Lealtad'), when President Madero was escorted by the Cadets of the Military College to the National Palace."
+    },
+    {
+      "date": "February 24",
+      "name": "Flag Day",
+      "spanishName": "Día de la Bandera",
+      "remarks": "Celebrates the current Flag of Mexico and honors the previous ones. Flag Day was implemented by President Lázaro Cárdenas in 1937."
+    },
+    {
+      "date": "March 18",
+      "name": "Anniversary of the Oil Expropriation",
+      "spanishName": "Aniversario de la Expropiación petrolera",
+      "remarks": "Celebrates the Oil Expropriation by President General Lázaro Cárdenas in 1938."
+    },
+    {
+      "date": "April 21",
+      "name": "Heroic Defense of Veracruz",
+      "spanishName": "Heroica Defensa de Veracruz",
+      "remarks": "Commemorates the defense against the United States occupation of Veracruz in 1914 by cadets, staff and faculty of the Heroica Escuela Naval Militar and personnel of the Mexican Navy."
+    },
+    {
+      "date": "May 5",
+      "name": "Fifth of May",
+      "spanishName": "Cinco de Mayo",
+      "remarks": "Celebrates the victory of the Mexican Army, led by Gral. Ignacio Zaragoza against French forces in the city of Puebla, on May 5, 1862. Also widely celebrated in the United States."
+    },
+    {
+      "date": "May 8",
+      "name": "Miguel Hidalgo's birthday",
+      "spanishName": "Natalicio de Miguel Hidalgo",
+      "remarks": "Commemorates the birth in 1753 of Miguel Hidalgo y Costilla, the initiator of the Mexican Independence War."
+    },
+    //... (Se seguirían agregando los demás dias aqui)
+  ],
   "festivities": []
 }
