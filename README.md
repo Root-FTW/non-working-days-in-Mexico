@@ -1,5 +1,3 @@
-Certainly! In the "Sources" section of the README, we can include the source you provided. Here's an updated version of the README with the added source:
-
 # Mexican Holidays JSON
 
 This repository contains a JSON file with the official non-working days in Mexico, as specified in Article 74 of the Federal Labor Law (LFT). The JSON file is designed to be consumed by other applications in English and can be used for all future years.
