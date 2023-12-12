@@ -2,39 +2,45 @@
   "holidays": [
     {
       "name": "New Year's Day",
-      "date": "01-01"
+      "spanishName": "Año Nuevo",
+      "date": "01-01",
+      "remarks": "First day of the year."
     },
     {
       "name": "Constitution Day",
+      "spanishName": "Día de la Constitución",
       "date": "02-05",
-      "observed": "firstMonday"
+      "remarks": ""
     },
     {
       "name": "Benito Juárez's Birthday",
+      "spanishName": "Natalicio de Benito Juárez",
       "date": "03-21",
-      "observed": "thirdMonday"
+      "remarks": ""
     },
     {
-      "name": "Labor Day",
-      "date": "05-01"
+      "name": "Labour Day",
+      "spanishName": "Día del Trabajo",
+      "date": "05-01",
+      "remarks": "Established in 1923, Labor Day commemorates the Mexican workers' union movements."
     },
     {
       "name": "Independence Day",
-      "date": "09-16"
+      "spanishName": "Día de la Independencia",
+      "date": "09-16",
+      "remarks": "Commemorates the start of the Independence War by Priest Miguel Hidalgo y Costilla in 1810. Festivities begin the evening of September 15 and culminate with a military parade on September 16."
     },
     {
       "name": "Revolution Day",
+      "spanishName": "Día de la Revolución",
       "date": "11-20",
-      "observed": "thirdMonday"
-    },
-    {
-      "name": "Inauguration Day",
-      "date": "12-01",
-      "frequency": 6
+      "remarks": ""
     },
     {
       "name": "Christmas Day",
-      "date": "12-25"
+      "spanishName": "Navidad",
+      "date": "12-25",
+      "remarks": "Christmas celebration; secular and religious holiday."
     }
   ]
 }
