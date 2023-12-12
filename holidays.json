@@ -123,5 +123,59 @@
       "remarks": "Celebrating the 1825 capture of the San Juan de Ulúa Fortress in Veracruz led by a joint force of Mexican Army and Navy units (the capture of the fortress is the Navy's baptism of fire, on which its first fleet under Captain Pedro Sainz de Baranda served with distinction)."
     }
   ],
-  "festivities": []
+  "festivities": [
+    {
+      "date": "January 6",
+      "name": "Epiphany",
+      "spanishName": "Día de los Reyes Magos",
+      "remarks": "Celebrates the Biblical New Testament story of the arrival of the three wise men ..."
+    },
+    {
+      "date": "February 2",
+      "name": "Candlemas",
+      "spanishName": "Día de la Candelaria",
+      "remarks": "Celebrates the presentation of the baby Jesus in the Temple of Jerusalem 40 days after his birth ..."
+    },
+    // ... Carnival celebrated Thursday to Tuesday before Ash Wednesday
+    {
+      "date": "February 14",
+      "name": "Valentine's Day",
+      "spanishName": "Día del Amor y la Amistad",
+      "remarks": "Celebrates amorous unions. On this day, traditionally, people give chocolates, flowers, letters and gifts ..."
+    },
+    {
+      "date": "March 8",
+      "name": "International Women's Day",
+      "spanishName": "Día Internacional de la Mujer",
+      "remarks": "It is not a state holiday."
+    },
+    // ... Holy Thursday and Good Friday dates vary depending on the year
+    {
+      "date": "April 30",
+      "name": "Children's Day",
+      "spanishName": "Día del Niño",
+      "remarks": "Honors all the children. It is not a state holiday."
+    },
+    // ... other festivities
+    {
+      "date": "May 10",
+      "name": "Mother's Day",
+      "spanishName": "Día de las Madres",
+      "remarks": "Honors all the mothers throughout the country. It is not a state holiday."
+    },
+    // ... continue with other festivities like Teacher's Day, Students' Day, Father's Day, Days of the Dead
+    {
+      "date": "December 12",
+      "name": "Feast of Our Lady of Guadalupe",
+      "spanishName": "Día de la Virgen de Guadalupe",
+      "remarks": "Celebrates the day that Our Lady of Guadalupe appeared on Tepeyac hill to the native San Juan Diego ..."
+    },
+    // ... Las Posadas, Christmas Eve, Christmas, Holy Innocents Day
+    {
+      "date": "December 31",
+      "name": "New Year's Eve",
+      "spanishName": "Víspera de Año Nuevo",
+      "remarks": "Mexicans celebrate New Year's Eve, or locally known as Año Nuevo, by downing a grape with each of the twelve chimes of the bell during the midnight countdown ..."
+    }
+  ]
 }
