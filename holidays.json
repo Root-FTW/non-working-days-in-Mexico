@@ -1,5 +1,5 @@
 {
-  "holidays": [
+  "statutoryHolidays": [
     {
       "name": "New Year's Day",
       "spanishName": "Año Nuevo",
@@ -42,5 +42,7 @@
       "date": "12-25",
       "remarks": "Christmas celebration; secular and religious holiday."
     }
-  ]
+  ],
+  "civicHolidays": [],
+  "festivities": []
 }
