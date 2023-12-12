@@ -80,7 +80,48 @@
       "spanishName": "Natalicio de Miguel Hidalgo",
       "remarks": "Commemorates the birth in 1753 of Miguel Hidalgo y Costilla, the initiator of the Mexican Independence War."
     },
-    //... (Se seguirían agregando los demás dias aqui)
+    {
+      "date": "June 1",
+      "name": "National Maritime Day",
+      "spanishName": "Día de la Marina",
+      "remarks": "Honors the merchant marines, which began on June 1, 1917 with the Tabasco. The holiday was first celebrated in 1942 to honor the crews of the Potrero del Llano and Faja de Oro, whose ships were sunk by Nazi submarines in May 1942."
+    },
+    {
+      "date": "September 13",
+      "name": "Anniversary of the 'Boy Heroes' or 'Heroic Cadets'",
+      "spanishName": "Día de los Niños Héroes",
+      "remarks": "Celebrates the Battle of Chapultepec during the Mexican–American War of 1847 and the heroic and ultimate sacrifice that the Niños Héroes gave for the nation."
+    },
+    {
+      "date": "September 16",
+      "name": "Cry of Dolores",
+      "spanishName": "Grito de Dolores",
+      "remarks": "Celebrates the Grito de Dolores, an event that marked the start of the independence war against Spain on the eve of September 16, 1810. It took place at a church chapel in Dolores Hidalgo, Guanajuato, led by a Creole Catholic priest Miguel Hidalgo y Costilla. Families and friends gather the evening of September 15 for a Noche Mexicana, dressing in traditional clothes and consuming traditional foods and drinks such as pozole, mole, birria, beer, tequila, and/or mezcal. The President rings the bell of Hidalgo and crowds gather in the Zócalo of Mexico City to shout ¡Viva México! (Long live Mexico!). Similar ceremonies are held in every state and municipality across the country. A military parade is held in Mexico City on September 16."
+    },
+    {
+      "date": "September 27",
+      "name": "Culmination of the Mexican War of Independence",
+      "spanishName": "Consumación de la Independencia",
+      "remarks": "Celebrates the end of the Mexican Independence War in 1821, 11 years after Father Hidalgo started it, with the victory of the Army of the Three Guarantees, led by Agustín de Iturbide and Vicente Guerrero."
+    },
+    {
+      "date": "September 30",
+      "name": "Morelos' birthday",
+      "spanishName": "Natalicio de José Mª Morelos y Pavón",
+      "remarks": "Commemorates the birth in 1765 of Father José María Morelos y Pavón, one of the founding fathers of the Mexican nation."
+    },
+    {
+      "date": "October 12",
+      "name": "Columbus Day",
+      "spanishName": "Día de la Raza",
+      "remarks": "Commemorates the creation of a new, brown race of mixed American, European, and African ancestry following the European colonization of the Americas that began in 1492."
+    },
+    {
+      "date": "November 23",
+      "name": "Mexican Navy Day",
+      "spanishName": "Dia de la Armada de Mexico",
+      "remarks": "Celebrating the 1825 capture of the San Juan de Ulúa Fortress in Veracruz led by a joint force of Mexican Army and Navy units (the capture of the fortress is the Navy's baptism of fire, on which its first fleet under Captain Pedro Sainz de Baranda served with distinction)."
+    }
   ],
   "festivities": []
 }
