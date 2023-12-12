@@ -39,7 +39,7 @@ The JSON file includes the following holidays:
    - Observed: Third Monday of November
 
 7. **Inauguration Day**
-   - Date: December 1st (`12-01`)
+   - Date: December 1st, 2024 (`12-01`)
    - Frequency: Every six years
 
 8. **Christmas Day**
