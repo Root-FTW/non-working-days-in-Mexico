@@ -1,0 +1,41 @@
+json
+{
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "01-01"
+    },
+    {
+      "name": "Constitution Day",
+      "date": "02-05",
+      "observed": "firstMonday"
+    },
+    {
+      "name": "Benito Juárez's Birthday",
+      "date": "03-21",
+      "observed": "thirdMonday"
+    },
+    {
+      "name": "Labor Day",
+      "date": "05-01"
+    },
+    {
+      "name": "Independence Day",
+      "date": "09-16"
+    },
+    {
+      "name": "Revolution Day",
+      "date": "11-20",
+      "observed": "thirdMonday"
+    },
+    {
+      "name": "Inauguration Day",
+      "date": "12-01",
+      "frequency": 6
+    },
+    {
+      "name": "Christmas Day",
+      "date": "12-25"
+    }
+  ]
+}
